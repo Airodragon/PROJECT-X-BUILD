@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fcf49fe.css",
+    "main.js": "/static/js/main.0c5c5f42.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/smooth-elegant-transparent-blue-cloth.jpg": "/static/media/smooth-elegant-transparent-blue-cloth.3312c5288fa43bda0e50.jpg",
+    "static/media/pexels-simon-berger-1183099.jpg": "/static/media/pexels-simon-berger-1183099.ee912a571070d812bae8.jpg",
+    "static/media/upside-down-curved-sheets-paper.jpg": "/static/media/upside-down-curved-sheets-paper.49f94993e5f300586ef1.jpg",
+    "static/media/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.jpg": "/static/media/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.17ce460bcb0b8087b537.jpg",
+    "static/media/ubuntu_dark.png": "/static/media/ubuntu_dark.3cb324fb7b3c50e2bf21.png",
+    "static/media/firefox.png": "/static/media/firefox.c70597859435faebda5f.png",
+    "static/media/vlc.png": "/static/media/vlc.6887f2d231fc686ea1fd.png",
+    "static/media/chrome.png": "/static/media/chrome.d4d864a4f945e696611e.png",
+    "static/media/gimp.png": "/static/media/gimp.b93b4f654dbadfa3cbab.png",
+    "index.html": "/index.html",
+    "main.5fcf49fe.css.map": "/static/css/main.5fcf49fe.css.map",
+    "main.0c5c5f42.js.map": "/static/js/main.0c5c5f42.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcf49fe.css",
+    "static/js/main.0c5c5f42.js"
+  ]
+}
